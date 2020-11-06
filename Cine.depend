@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1604696706 source:c:\users\usuario\desktop\cine\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<bits/stdc++.h>
+	<windows.h>
+	<time.h>
+	"usuario.h"
+	"peliculas.h"
+	"boletos.h"
+
+1604696996 c:\users\usuario\desktop\cine\usuario.h
+
+1604696874 c:\users\usuario\desktop\cine\peliculas.h
+
+1604696877 c:\users\usuario\desktop\cine\boletos.h
+
